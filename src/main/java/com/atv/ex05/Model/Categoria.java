@@ -19,3 +19,4 @@ public class Categoria {
     @Column(name="descricoes")
     private String descricao;
 }
+
